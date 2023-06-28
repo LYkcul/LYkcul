@@ -61,3 +61,25 @@ I'm LYkcul, you can also call me BlackPanda.
 </p>
 
 <br>
+
+---
+
+<h1 align="center" style="margin-top: 30px;">
+    Reach me on 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
+
+<p align="center">
+  <a href="https://space.bilibili.com/2023734201">
+    <img src="https://img.shields.io/badge/-BiliBili-pink?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="/img/wechat.jpg">
+    <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.luogu.com.cn/user/486799">
+    <img src="https://img.shields.io/badge/-luogu-white?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://github.com/LYkcul">
+    <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logoColor=white">
+  </a>
+</p>
