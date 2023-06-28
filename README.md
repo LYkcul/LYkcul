@@ -73,7 +73,7 @@ I'm LYkcul, you can also call me BlackPanda.
   <a href="https://space.bilibili.com/2023734201">
     <img src="https://img.shields.io/badge/-BiliBili-pink?style=for-the-badge&logoColor=white">
   </a>
-  <a href="/img/wechat.jpg">
+  <a href="/img/wechat.png">
     <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://www.luogu.com.cn/user/486799">
