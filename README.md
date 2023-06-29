@@ -20,6 +20,15 @@ I'm LYkcul, you can also call me BlackPanda.
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 27 June 2023 - To: 28 June 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
