@@ -26,17 +26,17 @@ I'm LYkcul, you can also call me BlackPanda.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 06 August 2023
+From: 27 June 2023 - To: 07 August 2023
 
-Total Time: 41 hrs 55 mins
+Total Time: 42 hrs 24 mins
 
-C++          17 hrs 6 mins   >>>>>>>>>>---------------   40.80 %
-TypeScript   11 hrs 17 mins  >>>>>>>------------------   26.95 %
-HTML         6 hrs 46 mins   >>>>---------------------   16.14 %
-JavaScript   3 hrs 55 mins   >>-----------------------   09.36 %
-Other        1 hr 7 mins     >------------------------   02.68 %
-CSS          1 hr 3 mins     >------------------------   02.51 %
-JSON         30 mins         -------------------------   01.20 %
+C++          17 hrs 15 mins  >>>>>>>>>>---------------   40.70 %
+TypeScript   11 hrs 27 mins  >>>>>>>------------------   27.03 %
+HTML         6 hrs 53 mins   >>>>---------------------   16.27 %
+JavaScript   3 hrs 55 mins   >>-----------------------   09.25 %
+Other        1 hr 7 mins     >------------------------   02.66 %
+CSS          1 hr 3 mins     >------------------------   02.48 %
+JSON         32 mins         -------------------------   01.26 %
 YAML         7 mins          -------------------------   00.28 %
 Bash         1 min           -------------------------   00.05 %
 Markdown     0 secs          -------------------------   00.00 %
