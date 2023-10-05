@@ -8,14 +8,17 @@ I'm LYkcul, you can also call me BlackPanda.
 -   :speech_balloon: You can ask me about anything [here.](https://github.com/LYkcul/LYkcul/issues)
 
 ---
-
-<p align="center">
-  <a href="https://github.com/LYkcul" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=LYkcul&theme=tokyonight&show_icons=true" alt="LYkcul's Stats"/> 
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYkcul&layout=compact" alt="Top Code"/>
-  </a>
-</p>
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/LYkcul" class="rich-diff-level-one">
+      <img src="https://github-readme-stats.vercel.app/api?username=LYkcul&theme=tokyonight&show_icons=true" alt="LYkcul's Stats"/> 
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYkcul&layout=compact" alt="Top Code"/>
+    </a>
+  </p>
+</details>
 
 <br>
 
@@ -92,16 +95,17 @@ ActionScript   2 mins          -------------------------   00.07 %
 </h1>
 
 <p align="center">
+  <a href="mailto:pandaliu0812@163.com"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://space.bilibili.com/2023734201">
-    <img src="https://img.shields.io/badge/-BiliBili-pink?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/bilibili-%2300AEEC.svg?&style=for-the-badge&logo=bilibili&logoColor=white">
   </a>
   <a href="/img/wechat.png">
-    <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logo=wechat&logoColor=white">
   </a>
   <a href="https://www.luogu.com.cn/user/486799">
     <img src="https://img.shields.io/badge/-luogu-white?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://github.com/LYkcul">
-    <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
