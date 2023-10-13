@@ -9,7 +9,7 @@ I'm LYkcul, you can also call me BlackPanda.
 
 ---
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: GitHub Statistics</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/LYkcul" class="rich-diff-level-one">
@@ -24,7 +24,7 @@ I'm LYkcul, you can also call me BlackPanda.
 
 ---
 
-**:bar_chart:Weekly development breakdown**
+**:bar_chart: Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 
