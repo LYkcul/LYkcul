@@ -29,7 +29,7 @@ I'm LYkcul, you can also call me BlackPanda.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 22 November 2023
+From: 27 June 2023 - To: 23 November 2023
 
 Total Time: 124 hrs 59 mins
 
