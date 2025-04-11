@@ -3,9 +3,10 @@
 I'm LYkcul, you can also call me BlackPanda.
 
 -   :hammer_and_pick: C++ / TypeScript / JavaScript / Python/ Web
--   :seedling: From Qingdao, Shandong, China
+-   :seedling: From Shandong, China
 -   :earth_asia: [BPOnlineJudge](https://bpoj.top/)
 -   :speech_balloon: You can ask me about anything [here.](https://github.com/LYkcul/LYkcul/issues)
+-   Developer of **BPJudge**
 
 ---
 <details>
@@ -96,9 +97,6 @@ CSS              2 hrs 50 mins   -------------------------   00.93 %
 
 <p align="center">
   <a href="mailto:pandaliu0812@163.com"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/2023734201">
-    <img src="https://img.shields.io/badge/bilibili-%2300AEEC.svg?&style=for-the-badge&logo=bilibili&logoColor=white">
-  </a>
   <a href="/img/wechat.png">
     <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logo=wechat&logoColor=white">
   </a>
