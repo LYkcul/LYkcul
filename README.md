@@ -84,7 +84,7 @@ I'm LYkcul, you can also call me BlackPanda.
 </h1>
 
 <p align="center">
-  <a href="mailto:pandaliu0812@163.com"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:2490665576@qq.com"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="/img/wechat.png">
     <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logo=wechat&logoColor=white">
   </a>
