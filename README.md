@@ -1,6 +1,6 @@
-### Hi LYkcul here :wave:
+### Hi BlackPanda here :wave:
 
-I'm LYkcul, you can also call me BlackPanda.
+Hi, I'm BlackPanda, aka LYkcul.
 
 -   :hammer_and_pick: C++ / TypeScript / JavaScript / Python/ Web
 -   :seedling: From Shandong, China
