@@ -26,11 +26,11 @@ Hi, I'm BlackPanda, aka LYkcul.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,22 +38,22 @@ Hi, I'm BlackPanda, aka LYkcul.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 29 mins        ████████████████░░░░░░░░░   65.28 % 
-TypeScript               45 mins             ████████░░░░░░░░░░░░░░░░░   33.20 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript               1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.46 % 
+JSON                     55 mins             ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+TypeScript               45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        ████████████████░░░░░░░░░   65.90 % 
-WSL                      46 mins             █████████░░░░░░░░░░░░░░░░   34.10 % 
+Windows                  2 hrs 26 mins       ███████████████████░░░░░░   75.73 % 
+WSL                      46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 ```
 
 
- Last Updated on 08/07/2025 19:48:24 UTC
+ Last Updated on 09/07/2025 19:51:12 UTC
 <!--END_SECTION:waka-->
 
 ---
