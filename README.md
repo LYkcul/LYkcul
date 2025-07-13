@@ -26,34 +26,14 @@ Hi, I'm BlackPanda, aka LYkcul.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.5%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               8 hrs 44 mins       ███████████████░░░░░░░░░░   61.78 % 
-HTML                     3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 8 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      12 hrs 25 mins      ██████████████████████░░░   87.87 % 
-Windows                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-```
-
-
- Last Updated on 12/07/2025 19:43:49 UTC
+ Last Updated on 13/07/2025 19:44:58 UTC
 <!--END_SECTION:waka-->
 
 ---
