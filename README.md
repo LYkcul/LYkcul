@@ -26,12 +26,14 @@ Hi, I'm BlackPanda, aka LYkcul.
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.4%20thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 30/07/2025 20:00:07 UTC
+ Last Updated on 31/07/2025 20:03:43 UTC
 <!--END_SECTION:waka-->
 
 ---
