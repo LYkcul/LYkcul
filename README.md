@@ -1,27 +1,9 @@
-### Hi BlackPanda here :wave:
+I'm BlackPanda, aka LYkcul.
 
-Hi, I'm BlackPanda, aka LYkcul.
-
--   :hammer_and_pick: C++ / TypeScript / JavaScript / Python/ Web
--   :seedling: From Shandong, China
--   :earth_asia: [BPOnlineJudge](https://bpoj.top/)
+-   :hammer_and_pick: C++ / TypeScript / JavaScript / Python / Web
+-   :seedling: From China
 -   :speech_balloon: You can ask me about anything [here.](https://github.com/LYkcul/LYkcul/issues)
 -   Developer of **BPJudge**
-
----
-<details>
-  <summary><b>:gear: GitHub Statistics</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/LYkcul" class="rich-diff-level-one">
-      <img src="https://github-readme-stats.vercel.app/api?username=LYkcul&theme=tokyonight&show_icons=true" alt="LYkcul's Stats"/> 
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYkcul&layout=compact" alt="Top Code"/>
-    </a>
-  </p>
-</details>
-
-<br>
 
 ---
 
@@ -55,46 +37,6 @@ WSL                      5 hrs 57 mins       ██████░░░░░�
 
  Last Updated on 08/08/2025 19:52:24 UTC
 <!--END_SECTION:waka-->
-
----
-
-**Languages and Frameworks**
-
-<!--
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code>
--->
-
-<p align="center">
-  <a href="https://github.com/LYkcul">
-    <img src="https://skillicons.dev/icons?i=cpp,html,java,js,jquery,latex,nodejs,py,ts,mongodb,git" />
-  </a>
-</p>
-
-**Tools and Environments**
-
-<!--
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" title="Windows"></code>
--->
-
-<p align="center">
-  <a href="https://github.com/LYkcul">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,md,visualstudio,linux,github,cloudflare" />
-  </a>
-</p>
-
-<br>
 
 ---
 
