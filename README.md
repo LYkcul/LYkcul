@@ -3,7 +3,7 @@ I'm BlackPanda, aka LYkcul.
 -   :hammer_and_pick: C++ / TypeScript / JavaScript / Python / Web
 -   :seedling: From China
 -   :speech_balloon: You can ask me about anything [here.](https://github.com/LYkcul/LYkcul/issues)
--   Developer of **BPJudge**
+-   Developer of [**BPJudge**](https://github.com/BPJudge)
 
 ---
 
