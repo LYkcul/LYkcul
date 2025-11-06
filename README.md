@@ -31,7 +31,7 @@ I'm BlackPanda, aka LYkcul.
     <img src="https://img.shields.io/badge/-Wechat-green?style=for-the-badge&logo=wechat&logoColor=white">
   </a>
   <a href="https://www.luogu.com.cn/user/486799">
-    <img src="https://img.shields.io/badge/-luogu-white?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/-luogu-blue?style=for-the-badge&logoColor=white&logo=luogu">
   </a>
   <a href="https://github.com/LYkcul">
     <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white">
