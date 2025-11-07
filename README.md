@@ -1,4 +1,4 @@
-I'm BlackPanda, aka LYkcul.
+I'm BlackPanda, aka Lyricus.
 
 -   :hammer_and_pick: C++ / TypeScript / JavaScript / Python / Web
 -   :seedling: From China
@@ -49,7 +49,7 @@ VS Code                  33 hrs 57 mins      ███████████�
   <a href="https://www.luogu.com.cn/user/486799">
     <img src="https://img.shields.io/badge/-luogu-blue?style=for-the-badge&logoColor=white&logo=luogu">
   </a>
-  <a href="https://github.com/LYkcul">
+  <a href="https://github.com/Lyricus233">
     <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
