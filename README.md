@@ -2,7 +2,7 @@ I'm BlackPanda, aka Lyricus.
 
 -   :hammer_and_pick: C++ / TypeScript / JavaScript / Python / Web
 -   :seedling: From China
--   :speech_balloon: You can ask me about anything [here.](https://github.com/LYkcul/LYkcul/issues)
+-   :speech_balloon: You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/issues)
 -   Developer of [**BPJudge**](https://github.com/BPJudge)
 
 ---
