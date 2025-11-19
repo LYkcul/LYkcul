@@ -1,4 +1,4 @@
-I'm BlackPanda, aka Lyricus.
+I'm Lyricus, aka BlackPanda.
 
 -   :hammer_and_pick: C++ / TypeScript / JavaScript / Python / Web
 -   :seedling: From China
